@@ -1,2 +1,2 @@
 # Resnet
- Created a neural network by using Resnet architecture
+ Created a CNN  neural network by using Resnet architecture
